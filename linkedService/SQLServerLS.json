@@ -5,15 +5,15 @@
 		"parameters": {
 			"ServerName": {
 				"type": "String",
-				"defaultValue": "TMGLAP269"
+				"defaultValue": "TMGLAP556"
 			},
 			"UserName": {
 				"type": "String",
-				"defaultValue": "Rohit"
+				"defaultValue": "nileshcheke123"
 			},
 			"SqlPassword": {
 				"type": "String",
-				"defaultValue": "amol@6969"
+				"defaultValue": "Nilesh@1234"
 			}
 		},
 		"annotations": [],
