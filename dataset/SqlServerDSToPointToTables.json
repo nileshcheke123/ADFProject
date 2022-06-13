@@ -3,7 +3,12 @@
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "SQLServerLS",
-			"type": "LinkedServiceReference"
+			"type": "LinkedServiceReference",
+			"parameters": {
+				"ServerName": "TMGLAP556",
+				"UserName": "nileshcheke123",
+				"SqlPassword": "Nilesh@1234"
+			}
 		},
 		"parameters": {
 			"TableNameDS": {
